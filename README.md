@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=150&section=header"/>
 <div align="center">
 
 # 🌸 Hi there, I'm Bhavana KS 🌸
@@ -140,3 +141,4 @@
 🤍 Thanks for visiting my profile! 🤍
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=150&section=footer"/>
